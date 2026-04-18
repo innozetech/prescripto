@@ -1,5 +1,7 @@
 <!--
-  SEO KEYWORDS: Healthcare Management System, Doctor Appointment Booking, Clinic Management System,
+  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech,
+  innoze github, innoze tech github, innoze tech solutions github, 
+  Healthcare Management System, Doctor Appointment Booking, Clinic Management System,
   Hospital Management System, Digital Prescription System, Patient Management Pakistan,
   MERN Stack Healthcare, React Healthcare App, Online Doctor Booking Pakistan,
   Appointment Booking System, Prescription Management, Patient History Tracking,
